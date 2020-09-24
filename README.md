@@ -1,5 +1,6 @@
 # algo-interview
-Solutions to data-structure and algorithms interview preparation in Java
+Solutions to data-structure and algorithms interview preparation in Java<br>
+More solutions in progress...
 
 # Sorting algorithms
 - [Bubble Sort](./src/main/java/com/rajeevn/algorithms/sorting/impl/BubbleSort.java)
