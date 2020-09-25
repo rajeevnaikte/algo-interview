@@ -1,6 +1,5 @@
-package com.rajeevn.algorithms.sorting.impl;
+package com.rajeevn.algorithms.sort.impl;
 
-import com.rajeevn.algorithms.sorting.ArraySorter;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

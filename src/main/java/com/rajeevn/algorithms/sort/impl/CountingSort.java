@@ -1,4 +1,4 @@
-package com.rajeevn.algorithms.sorting.impl;
+package com.rajeevn.algorithms.sort.impl;
 
 import java.util.Arrays;
 import java.util.Comparator;

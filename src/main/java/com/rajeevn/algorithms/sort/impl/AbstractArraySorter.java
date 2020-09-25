@@ -1,6 +1,6 @@
-package com.rajeevn.algorithms.sorting.impl;
+package com.rajeevn.algorithms.sort.impl;
 
-import com.rajeevn.algorithms.sorting.ArraySorter;
+import com.rajeevn.algorithms.sort.ArraySorter;
 
 /**
  * @see ArraySorter

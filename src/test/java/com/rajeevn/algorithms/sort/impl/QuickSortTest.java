@@ -1,4 +1,4 @@
-package com.rajeevn.algorithms.sorting.impl;
+package com.rajeevn.algorithms.sort.impl;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
@@ -6,12 +6,12 @@ import org.slf4j.LoggerFactory;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-public class InsertionSortTest
+public class QuickSortTest
 {
-    private static final Logger LOGGER = LoggerFactory.getLogger(InsertionSort.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(QuickSortTest.class);
 
     private static void sortAndVerify(Integer[] arr, Integer[] expected) {
-        AbstractArraySorter sorter = new InsertionSort();
+        AbstractArraySorter sorter = new QuickSort();
 
         sorter.sort(arr);
         assertArrayEquals(arr, expected);
