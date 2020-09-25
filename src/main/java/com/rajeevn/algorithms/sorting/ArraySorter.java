@@ -13,7 +13,7 @@ public interface ArraySorter
      *
      * @param array
      */
-    <T extends Comparable<T>> void sort(T[] array);
+    <T extends Comparable> void sort(T[] array);
 
     /**
      * Sort the given array with given comparator logic.

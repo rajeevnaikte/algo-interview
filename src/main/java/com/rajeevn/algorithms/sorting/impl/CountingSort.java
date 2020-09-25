@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 public class CountingSort extends AbstractArraySorter
 {
     @Override
-    public <T extends Comparable<T>> void sort(T[] array)
+    public <T extends Comparable> void sort(T[] array)
     {
         if (array instanceof Integer[])
         {

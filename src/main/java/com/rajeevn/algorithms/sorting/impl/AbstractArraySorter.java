@@ -10,7 +10,7 @@ public abstract class AbstractArraySorter implements ArraySorter
     private int swapCount = 0;
 
     @Override
-    public <T extends Comparable<T>> void sort(T[] array)
+    public <T extends Comparable> void sort(T[] array)
     {
         sort(array, Comparable::compareTo);
     }
