@@ -13,6 +13,7 @@ More solutions in progress...
 - [Linear Search](./src/main/java/com/rajeevn/algorithms/search/impl/LinearSearch.java)
 - [Binary Search](./src/main/java/com/rajeevn/algorithms/search/impl/BinarySearch.java)
 
-# Min/Max Heap
+# Trees
 - [Min Heap](./src/main/java/com/rajeevn/algorithms/tree/MinHeap.java)
 - [Max Heap](./src/main/java/com/rajeevn/algorithms/tree/MaxHeap.java)
+- [Binary Search Tree](./src/main/java/com/rajeevn/algorithms/tree/BinarySearchTree.java)
